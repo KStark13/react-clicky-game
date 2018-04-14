@@ -1,12 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
+import Jumbotron from './components/Jumbotron/Jumbotron';
+import GameContainer from './components/GameContainer/GameContainer';
+import images from './images.json';
+import ImageCard from './components/ImageCard/ImageCard';
 
-
-
-class App extends Component {
-  render() {
-   
-    );
-  }
-}
+const App = () =>  (
+      <div>
+         <Jumbotron />
+         <GameContainer />
+      </div>
+  );
+ 
 
 export default App;

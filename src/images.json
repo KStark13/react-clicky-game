@@ -3,84 +3,84 @@
 	"id": 1,
 	"name": "arianduzi",
 	"clicked": false,
-	"image": "./public/images/arianduzi.jpg"
+	"image": "../../images/arianduzi.png"
 
 },
 {
 	"id": 2,
 	"name": "buckley",
 	"clicked": false,
-	"image": "./public/images/buckley.jpg"
+	"image": "../../images/buckley.png"
 
 },
 {
 	"id": 3,
 	"name": "chas",
 	"clicked": false,
-	"image": "./public/images/chas.jpg"
+	"image": "../../images/chas.png"
 
 },
 {
 	"id": 4,
 	"name": "eli",
 	"clicked": false,
-	"image": "./public/images/eli.jpg"
+	"image": "../../images/eli.jpg"
 
 },
 {
 	"id": 5,
-	"name": "ethlene",
+	"name": "ethline",
 	"clicked": false,
-	"image": "./public/images/ethlene.jpg"
+	"image": "../../images/etheline.jpg"
 
 },
 {
 	"id": 6,
 	"name": "henry",
 	"clicked": false,
-	"image": "./public/images/henry.jpg"
+	"image": "../../images/henry.jpg"
 
 },
 {
 	"id": 7,
 	"name": "margot",
 	"clicked": false,
-	"image": "./public/images/margot.jpg"
+	"image": "../../images/margot.jpg"
 
 },
 {
 	"id": 8,
 	"name": "mordecai",
 	"clicked": false,
-	"image": "./public/images/mordecai.jpg"
+	"image": "../../images/mordecai.jpg"
 
 },
 {
 	"id": 9,
 	"name": "pagoda",
 	"clicked": false,
-	"image": "./public/images/pagoda.jpg"
+	"image": "../../images/pagoda.jpg"
 
 },
 {
 	"id": 10,
 	"name":"raleigh" ,
 	"clicked": false,
-	"image": "./public/images/raleigh.jpg"
+	"image": "../../images/raleigh.jpg"
 
 },
 {
 	"id": 11,
 	"name":"richie" ,
 	"clicked": false,
-	"image": "./public/images/richie.jpg"
+	"image": "../../images/richie.jpg"
 
 },
 {
 	"id": 12,
 	"name":"royal" ,
 	"clicked": false,
-	"image": "./public/images/royal.jpg"
+	"image": "../../images/royal.jpg"
 
 }
 
